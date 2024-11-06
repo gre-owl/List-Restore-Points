@@ -1,0 +1,1 @@
+The Get-ComputerRestorePoint cmdlet in PowerShell shows the list of system restore points that are available on the current machine, but it does not necessarily show all restore points in all scenarios.
